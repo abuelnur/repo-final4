@@ -19,7 +19,7 @@ def prvtDepVer = "1.0.1"
 dependencies {
         // private dependencies
     // This dependency is used by the application.
-    implementation 'com.google.guava:guava:28.1-jre'
+    implementation 'com.google.guava:guava:31.1-jre'
     // Use JUnit test framework
     testImplementation 'junit:junit:4.13.2'
 }
